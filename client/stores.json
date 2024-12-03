@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.13671875000001,
+        24.246964554300938
+      ]
+    },
+    "properties": {
+      "name": "ajit",
+      "address": "asdfg",
+      "phone": "86542"
+    }
+  },
+  {
+    "id": 2,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.46582031250001,
+        16.93070509876554
+      ]
+    },
+    "properties": {
+      "name": "deAjit",
+      "address": "hibli hosur road ",
+      "phone": "12324544996"
+    }
+  },
+  {
+    "id": 3,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.46582031250001,
+        16.93070509876554
+      ]
+    },
+    "properties": {
+      "name": "manju",
+      "address": "manglur ",
+      "phone": "12324544996"
+    }
+  },
+  {
+    "id": 4,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.69531250000001,
+        24.56710835257599
+      ]
+    },
+    "properties": {
+      "name": "akash",
+      "address": "haveri",
+      "phone": "7486453665"
+    }
+  },
+  {
+    "id": 5,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.98242187500001,
+        25.958044673317843
+      ]
+    },
+    "properties": {
+      "name": "chiru",
+      "address": "asdfgh",
+      "phone": "9+65843"
+    }
+  },
+  {
+    "id": 6,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.98242187500001,
+        25.958044673317843
+      ]
+    },
+    "properties": {
+      "name": "aaaaaa",
+      "address": "df",
+      "phone": "8794655+98"
+    }
+  },
+  {
+    "id": 7,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.13671875000001,
+        24.246964554300938
+      ]
+    },
+    "properties": {
+      "name": "naveen",
+      "address": "chennmma circle ",
+      "phone": "8123282260"
+    }
+  },
+  {
+    "id": 8,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.13671875000001,
+        24.246964554300938
+      ]
+    },
+    "properties": {
+      "name": "hello first post",
+      "address": "toolanakeri",
+      "phone": "7760877211"
+    }
+  },
+  {
+    "id": 9,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        65.14892578125001,
+        14.734275238729122
+      ]
+    },
+    "properties": {
+      "name": "store1",
+      "address": "konanakeri",
+      "phone": "108"
+    }
+  },
+  {
+    "id": 10,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        65.14892578125001,
+        14.734275238729122
+      ]
+    },
+    "properties": {
+      "name": "store1",
+      "address": "konanakeri",
+      "phone": "108"
+    }
+  },
+  {
+    "id": 11,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        null,
+        null
+      ]
+    },
+    "properties": {
+      "name": "",
+      "address": "",
+      "phone": ""
+    }
+  },
+  {
+    "id": 12,
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.832786542022625,
+        21.06145641208646
+      ]
+    },
+    "properties": {
+      "name": "sdfgh",
+      "address": "",
+      "phone": "sadfg"
+    }
+  }
+]

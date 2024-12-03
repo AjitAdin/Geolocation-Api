@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <div class="header">
+        <h1>Storiify</h1>
+      </div>
+      <div class="add-new-store">
+        <form class="store-form" id="store-form">
+          <input type="text" id="store-name" name="storename" placeholder="Store name">
+          <input type="text" id="phone" name="phone" placeholder="Phone number">
+          <input type="text" id="address" name="address" placeholder="Address">
+          <input type="text" id="Latitude" name="Latitude" placeholder="Latitude">
+          <input type="text" id="Longitude" name="Longitude" placeholder="Longitude">
+          <button type="submit" id="submit-btn">Create Store</button>
+        </form>
+      </div>
+      <ul class="store-ul-list"></ul>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- <script type="module" src="/servere/store.js"></script>
+  <script type="module" src="/servere/script.js"></script> -->
+
+  <script src="./index.js"></script>
+
+  
+  <script>
+    
+  </script>
+</body>
+</html>
